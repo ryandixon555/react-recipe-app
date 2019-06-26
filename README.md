@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Info
+
+A quick demo project showing a recipe website, making use of:
+- API Integration
+- React Hooks
+
 ## Available Scripts
 
 In the project directory, you can run:
